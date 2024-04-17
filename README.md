@@ -93,6 +93,6 @@ https://github.com/vllm-project/vllm/blob/main/vllm/engine/arg_utils.py
 https://docs.vllm.ai/en/v0.3.0/dev/engine/async_llm_engine.html
 https://zhuanlan.zhihu.com/p/649974825
 https://zhuanlan.zhihu.com/p/678611154
-https://docs.vllm.ai/en/stable/serving/distributed_serving.html（tensor_parallel_size）
-https://qwen.readthedocs.io/en/latest/deployment/vllm.html（max_model_len）
+https://docs.vllm.ai/en/stable/serving/distributed_serving.html
+https://qwen.readthedocs.io/en/latest/deployment/vllm.html
 https://github.com/vllm-project/vllm/blob/main/vllm/sampling_params.py
