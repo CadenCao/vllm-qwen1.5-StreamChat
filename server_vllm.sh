@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES=0 python server_vllm.py \
+          --model_path='../FAQS/Qwen1.5-14B-Chat-GPTQ-Int4' \
+          --tensor_parallel_size=1 \
+          --quantization='gptq' \
+          --gpu_memory_utilization=0.9 \
+          --dtype='auto' \
+          --max_model_len=2000 \
+          --host='0.0.0.0' \
+          --port=5499
